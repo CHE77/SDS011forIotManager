@@ -1,7 +1,16 @@
 # SDS011forIotManager
 SDS011 for Iot Manager
 
-In this vesion you could not change pins over web
+Esp8266 Node MCU
+
+![SDS011-esp8266v2](https://user-images.githubusercontent.com/4175310/196305584-58e46620-ace0-47a4-8628-3e976178fa21.png)
+
+
+Esp8266 Wemos
+![SDS011-esp8266-WemosV2](https://user-images.githubusercontent.com/4175310/196305573-b6f0e6c3-f912-464c-9022-19bfd986e3e7.png)
+
+
+Other possible wiring
 
 Node MCU v3
 ![SDS011-esp8266_node_MCU](https://user-images.githubusercontent.com/4175310/190209688-68f91f19-bdb4-4684-956c-1f36ad0ee39f.png)
